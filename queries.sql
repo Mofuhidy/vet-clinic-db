@@ -145,7 +145,7 @@ ORDER BY visits.date_of_visit DESC LIMIT 1;
 SELECT COUNT(*) FROM visits
 JOIN animals on visits.animal_id = animals.id 
 JOIN vets on visits.vet_id = vets.id
-LEFT JOIN specializations on vets.id = specializations.vet_id 
+LEFT JOIN specializations on vets.id = specializations.vet_id and animals.species_id = specializations.species_id
 WHERE specializations.species_id IS NULL;
 -----------------------------------------------------------
 -- What specialty should Maisy Smith consider getting? Look for the species she gets the most.
