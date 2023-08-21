@@ -74,6 +74,11 @@ his repository includes files with plain SQL that can be used to recreate a data
 - GitHub: [@mofuhidy](https://github.com/Mofuhidy)
 - LinkedIn: [mofuhidy](https://linkedin.com/in/mo-fuhidy)
 
+👤 **Ayodele Isaac**
+
+- GitHub: [@mosidrum](https://github.com/mosidrum)
+- LinkedIn: [mosidrum](https://linkedin.com/in/isaac-ayodele-37890521b/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
